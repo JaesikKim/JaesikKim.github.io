@@ -10,7 +10,7 @@ I'm a research engineer at Ajou University in South Korea. My interests of resea
 
 - <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
 <ins>Jaesik Kim</ins>, Dokyoon Kim*, Kyung-Ah Sohn* \
-<b>Bioinformatics</b>. 2021. [[Paper](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857)] [[Code](https://github.com/JaesikKim/HiG2Vec)]
+<b>Bioinformatics</b> 2021 [[Paper](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857)] [[Code](https://github.com/JaesikKim/HiG2Vec)]
 
 - <b>Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies</b> \
 So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-Ah Sohn* \
@@ -23,7 +23,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 - <b>Informative Tumor Mutational Burden (iTMB): integrated multiple scores for missense mutations to predict immunotherapy outcome for non-small cell lung cancer</b> \
 <ins>Jaesik Kim</ins>, Garam Lee, Kyung-Ah Sohn*, Dokyoon Kim* \
-<b>ASHG 2020 Poster</b> (Cancer - Posters #2362) [[Link]https://www.abstractsonline.com/pp8/#!/9070/presentation/3518]
+<b>ASHG 2020 Poster</b> (Cancer - Posters #2362) [[Link](https://www.abstractsonline.com/pp8/#!/9070/presentation/3518)]
 
 
 ### Experience
