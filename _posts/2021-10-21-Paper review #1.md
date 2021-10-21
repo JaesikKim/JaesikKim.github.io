@@ -1,8 +1,8 @@
 ---
 layout: post
-title: UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND
+title: Paper review #1
 ---
-[[Paper](https://arxiv.org/abs/2110.03372)]
+### UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND [[Paper](https://arxiv.org/abs/2110.03372)]
 ### Summary
 - New *de novo* biological sequence design algorithm for a limited evaluation process
 - Based on black-box optimization formulation
@@ -24,29 +24,28 @@ f(.) is the oracle score function. discover values of m for which f(m) is large.
 In real-world situations, a query of this oracle f could represent a series of wet-lab experiments to measure specific chemical properties or specificity for a given binding site target. In general, these experiments are time- and cost-consuming. As a result, the total number of queries is limited.
 
 <b> Connecting LFI and sequence design </b> \
-Think of $ \varepsilon $ as a Boolean feature of these desirable configurations, and our goal is to characterize the posterior distribution $ p(m|\varepsilon) $ from which we obtain the desired sequences. \
+Think of $\varepsilon$ as a Boolean feature of these desirable configurations, and our goal is to characterize the posterior distribution $p(m|\varepsilon)$ from which we obtain the desired sequences. \
 <img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-1.png"> \
 <img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-2.png"> \
-Notice that in sequence design, the oracle could be either exact or noisy, thus we use the more general $ s \sim f(m) $ formulation rather than $ s = f(m) $.
+Notice that in sequence design, the oracle could be either exact or noisy, thus we use the more general $s \sim f(m)$ formulation rather than $s = f(m)$.
 
 ### Methods
 #### Backward modeling
 <b>FB-VAE</b> [Gupta & Zou (2019)](https://www.nature.com/articles/s42256-019-0017-4) \
-It would then be natural to construct an analogical sequence design algorithm using top scored entities $ \{m_i\}_i $ to guide the update of a certain sequence distribution.
+It would then be natural to construct an analogical sequence design algorithm using top scored entities $\{m_i\}_i$ to guide the update of a certain sequence distribution.
 <img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig2.png"> \
-$ q_{\phi}(m) $ is variational autoencoder. 
+$q_{\phi}(m)$ is variational autoencoder. 
 
 <b>DbAs</b> [Brookes & Listgarten (2018)](https://arxiv.org/abs/1810.03714) \
 <img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig3.png"> \
-fitting $ q_{\phi}(m) $ through minimizing the KL divergence with the posterior $ p(m|\varepsilon)$
+fitting $q_{\phi}(m)$ through minimizing the KL divergence with the posterior $p(m|\varepsilon)$
 
 #### Forward modeling
 <b>Iterative Scoring</b> \
-Train a regressor $ \hat{f_{\phi}}(m) $ in a supervised manner to fit the oracle scorer. Use $ \tilde{q}(m) $ to denote the unknown posterior $ p(m|\varepsilon) $
-with knowledge of $ \hat{f_{\phi}}(m) $ and prior $$ p(m) $$. \
+Train a regressor $\hat{f_{\phi}}(m)$ in a supervised manner to fit the oracle scorer. Use $\tilde{q}(m)$ to denote the unknown posterior $p(m|\varepsilon)$ with knowledge of $\hat{f_{\phi}}(m)$ and prior $p(m)$. \
 <img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig4.png"> \
-If choose Example A to serve as the definition of event $ \varepsilon $, then the samples of $ \tilde{q}(m) $ can be obtained in this way: (1) sample m from prior $ p(m) $ and (2) accept this sample if $ \hat{f_{\phi}}(m) $ is larger than threshold s, or otherwise reject it. \
-Alternatively, if we choose Example B, we have $ p(m) exp($$ \hat{f_{\phi}}(m) /\tau) $.
+If choose Example A to serve as the definition of event $\varepsilon$, then the samples of $\tilde{q}(m)$ can be obtained in this way: (1) sample m from prior $p(m)$ and (2) accept this sample if $\hat{f_{\phi}}(m)$ is larger than threshold s, or otherwise reject it. \
+Alternatively, if we choose Example B, we have $p(m) exp(\hat{f_{\phi}}(m) /\tau)$.
 
 #### Modeling a probability ratio
 <b>Iterative Ratio</b> \
