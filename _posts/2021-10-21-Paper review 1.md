@@ -24,38 +24,38 @@ f(.) is the oracle score function. discover values of m for which f(m) is large.
 In real-world situations, a query of this oracle f could represent a series of wet-lab experiments to measure specific chemical properties or specificity for a given binding site target. In general, these experiments are time- and cost-consuming. As a result, the total number of queries is limited.
 
 <b> Connecting LFI and sequence design </b> \
-Think of $$ \varepsilon $$ as a Boolean feature of these desirable configurations, and our goal is to characterize the posterior distribution $$ p(m|\varepsilon) $$ from which we obtain the desired sequences. \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-1.png" width="300px" height="300px"></img> \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-2.png" width="300px" height="300px"></img> \
-Notice that in sequence design, the oracle could be either exact or noisy, thus we use the more general $$ s \sim f(m) $$ formulation rather than $$ s = f(m) $$.
+Think of $ \varepsilon $ as a Boolean feature of these desirable configurations, and our goal is to characterize the posterior distribution $ p(m|\varepsilon) $ from which we obtain the desired sequences. \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-1.png"> \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig1-2.png"> \
+Notice that in sequence design, the oracle could be either exact or noisy, thus we use the more general $ s \sim f(m) $ formulation rather than $ s = f(m) $.
 
 ### Methods
 #### Backward modeling
 <b>FB-VAE</b> [Gupta & Zou (2019)](https://www.nature.com/articles/s42256-019-0017-4) \
-It would then be natural to construct an analogical sequence design algorithm using top scored entities $$ \{m_i\}_i $$ to guide the update of a certain sequence distribution.
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig2.png" width="300px" height="300px"></img> \
-$$ q_{\phi}(m) $$ is variational autoencoder. 
+It would then be natural to construct an analogical sequence design algorithm using top scored entities $ \{m_i\}_i $ to guide the update of a certain sequence distribution.
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig2.png"> \
+$ q_{\phi}(m) $ is variational autoencoder. 
 
 <b>DbAs</b> [Brookes & Listgarten (2018)](https://arxiv.org/abs/1810.03714) \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig3.png" width="300px" height="300px"></img> \
-fitting $$ q_{\phi}(m) $$ through minimizing the KL divergence with the posterior $$ p(m|\varepsilon)$$
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig3.png"> \
+fitting $ q_{\phi}(m) $ through minimizing the KL divergence with the posterior $ p(m|\varepsilon)$
 
 #### Forward modeling
 <b>Iterative Scoring</b> \
-Train a regressor $$ \hat{f_{\phi}}(m) $$ in a supervised manner to fit the oracle scorer. Use $$ \tilde{q}(m) $$ to denote the unknown posterior $$ p(m|\varepsilon) $$
-with knowledge of $$ \hat{f_{\phi}}(m) $$ and prior $$ p(m) $$. \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig4.png" width="300px" height="300px"></img> \
-If choose Example A to serve as the definition of event $$ \varepsilon $$, then the samples of $$ \tilde{q}(m) $$ can be obtained in this way: (1) sample m from prior $$ p(m) $$ and (2) accept this sample if $$ \hat{f_{\phi}}(m) $$ is larger than threshold s, or otherwise reject it. \
-Alternatively, if we choose Example B, we have $$ p(m) exp($$ \hat{f_{\phi}}(m) /\tau) $$.
+Train a regressor $ \hat{f_{\phi}}(m) $ in a supervised manner to fit the oracle scorer. Use $ \tilde{q}(m) $ to denote the unknown posterior $ p(m|\varepsilon) $
+with knowledge of $ \hat{f_{\phi}}(m) $ and prior $$ p(m) $$. \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig4.png"> \
+If choose Example A to serve as the definition of event $ \varepsilon $, then the samples of $ \tilde{q}(m) $ can be obtained in this way: (1) sample m from prior $ p(m) $ and (2) accept this sample if $ \hat{f_{\phi}}(m) $ is larger than threshold s, or otherwise reject it. \
+Alternatively, if we choose Example B, we have $ p(m) exp($$ \hat{f_{\phi}}(m) /\tau) $.
 
 #### Modeling a probability ratio
 <b>Iterative Ratio</b> \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig5.png" width="300px" height="300px"></img> \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig5.png"> \
 Details are skipped
 
 #### Composite probabilistic methods
 <b>Iterative Posterior Scoring and Iterative Posterior Ratio</b> \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig6.png" width="300px" height="300px"></img> \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig6.png"> \
 Details are skipped
 
 ### Experiments and Results
@@ -76,6 +76,6 @@ Ground-truth measurement relies on a regressor. Use a pretrained model taken fro
 The encoder of the VAE first linearly transform one-hot input into a hidden feature which is 64 dimension, and then separately linearly transform to a 64-dimension mean output and 64-dimension variance output. The decoder contains a 64 64 linear layer and a linear layer that maps the hidden feature to categorical output. All other methods utilize bi-directional long short-term memory model (BiLSTM) with a linear embedding layer. Both the embedding dimension and the hidden size of LSTM is set to 32.
 #### Result
 Evaluate these sequence design algorithms by the average score of the top-10 and top-100 sequences in the resulting dataset D at each round. \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig7.png" width="300px" height="300px"></img> \
-<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig8.png" width="300px" height="300px"></img> \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig7.png"> \
+<img src="../papers/UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND/fig8.png">
 
