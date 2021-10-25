@@ -7,6 +7,10 @@ permalink: /about/
 I'm a research engineer at Ajou University in South Korea. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. 
 
 ### Publication
+- <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
+Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
+<b>IEEE International Conference on Bioinformatics and Biomedicine</b> 2021 (Accepted)
+
 
 - <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
 <ins>Jaesik Kim</ins>, Dokyoon Kim\*, Kyung-Ah Sohn\* \

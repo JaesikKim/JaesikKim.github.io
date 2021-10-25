@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper review #1
+title: Paper review 1
 ---
 ### UNIFYING LIKELIHOOD-FREE INFERENCE WITH BLACK-BOX SEQUENCE DESIGN AND BEYOND [[Paper](https://arxiv.org/abs/2110.03372)]
 ### Summary
