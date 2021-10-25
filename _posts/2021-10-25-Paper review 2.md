@@ -4,12 +4,7 @@ title: Paper review 2
 ---
 ### A Gentle Introduction to Graph Neural Networks, Distill (2021) [[Paper](https://distill.pub/2021/gnn-intro/)]
 
-### Summary
 Only cover what's interesting or new in my view.
-- New *de novo* biological sequence design algorithm for a limited evaluation process
-- Based on black-box optimization formulation
-- Performed on TF binding sites, 5' UTR, Antimicrobial peptides, and Fluorescence proteins.
-
 
 ### Message passing examples
 - by only nodes \
