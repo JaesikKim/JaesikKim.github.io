@@ -9,7 +9,7 @@ I'm a research engineer at Ajou University in South Korea. My interests of resea
 ### Publication
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
 Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
-<b>IEEE International Conference on Bioinformatics and Biomedicine</b> 2021 (Accepted)
+<b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 (Accepted) [Paper] [[Code](https://github.com/JaesikKim/temporal-GNN)]
 
 
 - <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
@@ -38,7 +38,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Graduate Student for Master's degree</b>, Feb. 2018 - Aug. 2021 \
-[Learning and Mining from data(LAMDA) lab](http://lamda.ml/) at <b>Ajou University</b>, Suwon, Korea \
+[LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea \
 Advised by Professor Kyung-Ah Sohn
   
 - <b>Undergraduate Intern</b>, Sep. 2016 - Feb. 2017 \
