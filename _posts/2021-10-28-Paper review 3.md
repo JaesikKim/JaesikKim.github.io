@@ -23,7 +23,7 @@ This is a super impressive paper! The idea was really elaborately designed and t
 - chemical knowledge graph modeling
 
 
-<b>Previous works</b> 
+<b>Previous works</b> \
 1) natural language models: [MolBERT](https://arxiv.org/abs/2011.13230), ChemBERTa, SMILES-Transformer, SMILES-BERT, Molecule-Transformer, SA-BiLSTM \
 Limitation: use SMILES, which simply based on "slender" strings.
 
@@ -51,7 +51,7 @@ graph-edit-distance prediction.
 ### Method
 #### Structural molecule encoder
 Initial representation
-atom $ a_i $ : concatenation four one-hot vectors [*element type*, *charge*, *whether the atom is an aromatic ring*, *the count of attached hydrogen atoms*] (each one-hot vector includes "unknown" entry)
+atom $ a_i $ : concatenation four one-hot vectors [*element type*, *charge*, *whether the atom is an aromatic ring*, *the count of attached hydrogen atoms*] (each one-hot vector includes "unknown" entry) \
 bond $ b_i $ : bond type (e.g., single, double) not used. Since the bond type can usually be inferred by the features of its two associated atoms and does not consistently improve the model performance according to our experiments, it does not explicitly take bond type as input. 
 
 #### Preserving chemical reaction equivalence
@@ -74,8 +74,8 @@ For example, \
 the residual between reactant embedding and product embedding will totally depend on the reaction center (colored in orange) as well as atoms whose distance from the reaction center is 1 or 2 (colored in light orange
 
 Remarks
-1) The model is theoretically able to learn a reaction template based on even only one reaction instance, which makes it particularly useful in few-shot learning scenario.
-2) skip
+1) The model is theoretically able to learn a reaction template based on even only one reaction instance, which makes it particularly useful in few-shot learning scenario. \
+2) skip \
 3) K (# layers) can greatly impact the learned reaction templates. Sensitive to K 
 
 #### Training the model

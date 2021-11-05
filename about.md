@@ -7,6 +7,10 @@ permalink: /about/
 I'm a research engineer at Ajou University in South Korea. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. 
 
 ### Publication
+- <b>A Novel Scoring System for Response of Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer Using Early-treatment Blood Features Derived from Machine Learning</b> \
+<ins>Jaesik Kim</ins>, Kyung-Ah Sohn, Jung-Hak Kwak, Min Jung Kim, Seung-Bum Ryoo, Seung-Yong Jeong, Kyu Joo Park, Hyun-Cheol Kang, Eui Kyu Chie, Sang-Hyuk Jung, Dokyoon Kim\*, Ji Won Park\* \
+<b>Frontiers in Oncology</b> 2021 (Accepted) [Paper]
+
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
 Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
 <b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 (Accepted) [Paper] [[Code](https://github.com/JaesikKim/temporal-GNN)]
