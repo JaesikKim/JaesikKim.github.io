@@ -4,7 +4,8 @@ title: About me
 permalink: /about/
 ---
 
-I'm a research engineer at Ajou University in South Korea. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. 
+I'm a research engineer at Ajou University in South Korea. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. \
+I will join Kim lab at the University of Pennsylvania as Junior Bioinformatician soon! 
 
 ### Publication
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
