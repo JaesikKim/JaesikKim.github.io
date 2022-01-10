@@ -8,6 +8,10 @@ I'm a research engineer at Ajou University in South Korea. My interests of resea
 I will join Kim lab at the University of Pennsylvania as Junior Bioinformatician soon! 
 
 ### Publication
+- <b>A Deep Learning Model for Screening Type 2 Diabetes from Retinal Photographs</b> \
+Jae-Seung Yun§, <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung, Seon-Ah Cha, Seung-Hyun Ko, Yu-Bae Ahn, Hong-Hee Won, Kyung-Ah Sohn\*, Dokyoon Kim\* \
+<b>Nutrition, Metabolism, and Cardiovascular Diseases</b> 2022 (Accepted) [Paper]
+
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
 Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
 <b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 (Accepted) [Paper] [[Code](https://github.com/JaesikKim/temporal-GNN)]
