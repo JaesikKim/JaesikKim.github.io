@@ -4,17 +4,16 @@ title: About me
 permalink: /about/
 ---
 
-I'm a research engineer at Ajou University in South Korea. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. \
-I will join Kim lab at the University of Pennsylvania as Junior Bioinformatician soon! 
+I'm a Bioinformatician in Kim Lab at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. \
 
 ### Publication
 - <b>A Deep Learning Model for Screening Type 2 Diabetes from Retinal Photographs</b> \
 Jae-Seung Yun§, <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung, Seon-Ah Cha, Seung-Hyun Ko, Yu-Bae Ahn, Hong-Hee Won, Kyung-Ah Sohn\*, Dokyoon Kim\* \
-<b>Nutrition, Metabolism, and Cardiovascular Diseases</b> 2022 (Accepted) [Paper]
+<b>Nutrition, Metabolism, and Cardiovascular Diseases</b> 2022 [[Paper](https://www.nmcd-journal.com/article/S0939-4753(22)00027-8/pdf#relatedArticles)]
 
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
 Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
-<b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 (Accepted) [Paper] [[Code](https://github.com/JaesikKim/temporal-GNN)]
+<b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 [[Paper](https://ieeexplore.ieee.org/document/9669504)] [[Code](https://github.com/JaesikKim/temporal-GNN)]
 
 - <b>A Novel Scoring System for Response of Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer Using Early-treatment Blood Features Derived from Machine Learning</b> \
 <ins>Jaesik Kim</ins>, Kyung-Ah Sohn, Jung-Hak Kwak, Min Jung Kim, Seung-Bum Ryoo, Seung-Yong Jeong, Kyu Joo Park, Hyun-Cheol Kang, Eui Kyu Chie, Sang-Hyuk Jung, Dokyoon Kim\*, Ji Won Park\* \
@@ -39,6 +38,12 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
+- <b>Junior Bioinformatician</b>, Feb. 2022 - Present \
+[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+
+- <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 \
+[LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
+
 - <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 \
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
