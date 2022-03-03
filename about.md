@@ -4,9 +4,14 @@ title: About me
 permalink: /about/
 ---
 
-I'm a Bioinformatician in Kim Lab at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration. \
+I'm a Bioinformatician in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
 ### Publication
+
+- <b>Development and validation of a novel strong prognostic index for colon cancer through a robust combination of laboratory features for systemic inflammation: A prognostic immune nutritional index</b> \
+Sang-Hyuk Jung§, Jie Hao§, Manu Shivakumar, Yonghyun Nam, <ins>Jaesik Kim</ins>, Min Jung Kim, Seung-Bum Ryoo, Eun Kyung Cho, Seung-Yong Jeong, Kyu Joo Park, Sung Chan Park, Dae Kyung Sohn, Jae Hwan Oh, Hong-Hee Won, Dokyoon Kim\*, Ji Won Park\* \
+<b>British Journal of Cancer</b> 2022
+
 - <b>A Deep Learning Model for Screening Type 2 Diabetes from Retinal Photographs</b> \
 Jae-Seung Yun§, <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung, Seon-Ah Cha, Seung-Hyun Ko, Yu-Bae Ahn, Hong-Hee Won, Kyung-Ah Sohn\*, Dokyoon Kim\* \
 <b>Nutrition, Metabolism, and Cardiovascular Diseases</b> 2022 [[Paper](https://www.nmcd-journal.com/article/S0939-4753(22)00027-8/pdf#relatedArticles)]
@@ -61,7 +66,10 @@ Genomics Informatics lab at <b>Yonsei University</b>, Seoul, Korea
 Microbial Genomics lab at <b>Yonsei University</b>, Seoul, Korea
   
 - <b>Teaching Assistant</b> \
-Programming pracice of Data Structure (Autumn 2018)
+Programming practice of Data Structure (Autumn 2018)
+
+### Awards
+- Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
 
 ### Education
 - <b>M.S.</b>, Computer Engineering at <b>Ajou University</b>, 2018 - 2021
