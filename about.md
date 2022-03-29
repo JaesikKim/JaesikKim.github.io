@@ -6,11 +6,13 @@ permalink: /about/
 
 I'm a Bioinformatician in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
+I'm going to become Bioengineering PhD student at the University of Pennsylvania on Sep. 2022.
+
 ### Publication
 
 - <b>Development and validation of a novel strong prognostic index for colon cancer through a robust combination of laboratory features for systemic inflammation: A prognostic immune nutritional index</b> \
 Sang-Hyuk Jung§, Jie Hao§, Manu Shivakumar, Yonghyun Nam, <ins>Jaesik Kim</ins>, Min Jung Kim, Seung-Bum Ryoo, Eun Kyung Cho, Seung-Yong Jeong, Kyu Joo Park, Sung Chan Park, Dae Kyung Sohn, Jae Hwan Oh, Hong-Hee Won, Dokyoon Kim\*, Ji Won Park\* \
-<b>British Journal of Cancer</b> 2022
+<b>British Journal of Cancer</b> 2022 [[Paper](https://www.nature.com/articles/s41416-022-01767-w)]
 
 - <b>A Deep Learning Model for Screening Type 2 Diabetes from Retinal Photographs</b> \
 Jae-Seung Yun§, <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung, Seon-Ah Cha, Seung-Hyun Ko, Yu-Bae Ahn, Hong-Hee Won, Kyung-Ah Sohn\*, Dokyoon Kim\* \
@@ -43,7 +45,10 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
-- <b>Junior Bioinformatician</b>, Feb. 2022 - Present \
+- <b>Bioengineering PhD Student and Research Fellow</b>, Sep. 2022 - \ 
+[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+
+- <b>Junior Bioinformatician</b>, Feb. 2022 - Sep. 2022 \
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 \
