@@ -48,28 +48,23 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 - <b>Bioengineering PhD Student and Research Fellow</b>, Sep. 2022 - \ 
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
-- <b>Junior Bioinformatician</b>, Feb. 2022 - Sep. 2022 \
+- <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
-- <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 \
+- <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 (5m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
 
-- <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 \
+- <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 (1y)\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
-- <b>Visiting Student Intern</b>, Jul. 2019 - Aug. 2019 \
+- <b>Visiting Student Intern</b>, Jul. 2019 - Aug. 2019 (3m)\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
-- <b>Graduate Student for Master's degree</b>, Feb. 2018 - Aug. 2021 \
-[LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea \
-Advised by Professor Kyung-Ah Sohn
-  
-- <b>Undergraduate Intern</b>, Sep. 2016 - Feb. 2017 \
-Genomics Informatics lab at <b>Yonsei University</b>, Seoul, Korea
+- <b>Computer Engineering MS Student</b>, Feb. 2018 - Aug. 2021 (3y 6m)\
+[LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
 
-- <b>Undergraduate Intern</b>, Dec. 2015 - Feb. 2016 \
-Microbial Genomics lab at <b>Yonsei University</b>, Seoul, Korea
-  
+
+### Teaching
 - <b>Teaching Assistant</b> \
 Programming practice of Data Structure (Autumn 2018)
 
@@ -78,8 +73,9 @@ Programming practice of Data Structure (Autumn 2018)
 
 ### Education
 - <b>M.S.</b>, Computer Engineering at <b>Ajou University</b>, 2018 - 2021
-  - Thesis: Representation Learning of Biomedical Ontologies using Poincaré Embedding and Application to Genetic Risk Model
-    
+  - Thesis: Representation Learning of Biomedical Ontologies using Poincaré Embedding and Application to Genetic Risk Model \
+  - Advised by Professor Kyung-Ah Sohn
+
 - <b>B.S.</b>, Systems Biology at <b>Yonsei University</b>, 2011 - 2018
 
 ### Contact me
