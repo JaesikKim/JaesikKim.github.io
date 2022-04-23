@@ -45,7 +45,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
-- <b>Bioengineering PhD Student and Research Fellow</b>, Sep. 2022 - \ 
+- <b>Bioengineering PhD Student and Research Fellow</b>, Sep. 2022 - . \ 
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
