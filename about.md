@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a Bioinformatician in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
-I'm going to become Bioengineering PhD student at the University of Pennsylvania on Sep. 2022.
+I'm joining Bioengineering PhD program at the University of Pennsylvania on Aug. 2022.
 
 ### Publication
 
@@ -34,7 +34,11 @@ Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi 
 So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-Ah Sohn\* \
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
-### Conference Poster
+### Conference Poster Presentations
+- <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
+<ins>Jaesik Kim</ins>, Dokyoon Kim\*, Kyung-Ah Sohn\* \
+<b>DBEI & CCEB Research Day 2022 Poster</b> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
+
 - <b>TransformerPRS: a deep learning-based polygenic risk model using bidirectional transformers derived from a language model</b> \
 <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung§, Mansu Kim, Kwangsik Nho, Li Shen, Kyung-Ah Sohn\*, Hong-Hee Won\*, Dokyoon Kim\* \
 <b>ASHG 2021 Poster</b>
@@ -45,7 +49,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
-- <b>Bioengineering PhD Student and Research Fellow</b>, Sep. 2022 - . \ 
+- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 -  \ 
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\

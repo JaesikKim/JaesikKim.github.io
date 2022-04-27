@@ -35,10 +35,10 @@ SNPs -> Genes -> BPs -> single vector representation \
 <img src="../papers/A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease/fig2.png"> 
 
 For subject n,
-- imaging features: i<sub>n</sub><sup>1</sup>&in;&real;<sup>M<sub>1</sub>&times;1</sup>, i<sub>n</sub><sup>2</sup>&in;&real;<sup>M<sub>2</sub>&times;1</sup>
-- gene scores: g<sub>n</sub> &in; &real;<sup>G&times;1</sup> (G is # of genes)\
+- imaging features: i<sub>n</sub><sup>1</sup>&isin;&real;<sup>M<sub>1</sub>&times;1</sup>, i<sub>n</sub><sup>2</sup>&isin;&real;<sup>M<sub>2</sub>&times;1</sup>
+- gene scores: g<sub>n</sub> &isin; &real;<sup>G&times;1</sup> (G is # of genes)\
 The gene scores g<sub>n</sub> are obtained by grouping the original SNPs according to the nearest gene and aggregating the associated genetic risk weighted by GWAS effect size. (Like PRS)
-- phenotype y<sub>n</sub> &in; {0,1}
+- phenotype y<sub>n</sub> &isin; {0,1}
 
 <b>Genetic graph embedding (Gene -> BP)</b> \
 <img src="../papers/A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease/fig3.png"> \
@@ -139,7 +139,7 @@ Fig. 6 shows the clusters along with the most frequent keywords within each clus
 cluster these pathways into 10 categories based on their semantic similarity
 
 <b>Ablation study</b> \
-<img src="../papers/A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease/fig10.png"> 
+<img src="../papers/A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease/fig11.png"> 
 
 
 ### Question
