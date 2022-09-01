@@ -4,9 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm a Bioinformatician in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
-
-I'm joining Bioengineering PhD program at the University of Pennsylvania on Aug. 2022.
+I'm a first-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
 ### Publication
 
@@ -35,6 +33,10 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
 ### Conference Poster Presentations
+-<b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
+Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
+<b>DBEI & CCEB Research Day 2022 Poster</b> <ins>Flash Talk Presenter</ins> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
+
 - <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
 <ins>Jaesik Kim</ins>, Dokyoon Kim\*, Kyung-Ah Sohn\* \
 <b>DBEI & CCEB Research Day 2022 Poster</b> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
@@ -49,7 +51,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
-- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 -  \ 
+- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present \ 
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
@@ -70,7 +72,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 ### Teaching
 - <b>Teaching Assistant</b> \
-Programming practice of Data Structure (Autumn 2018)
+Programming practice of Data Structure (Fall 2018)
 
 ### Awards
 - Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
