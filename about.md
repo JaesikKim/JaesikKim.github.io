@@ -18,7 +18,7 @@ Jae-Seung Yun§, <ins>Jaesik Kim</ins>§, Sang-Hyuk Jung, Seon-Ah Cha, Seung-Hyu
 
 - <b>Interpretable temporal graph neural network for prognostic prediction of Alzheimer’s disease using longitudinal neuroimaging data</b> \
 Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi Long, Dokyoon Kim, and Li Shen\* \
-<b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 [[Paper](https://ieeexplore.ieee.org/document/9669504)] [[Code](https://github.com/JaesikKim/temporal-GNN)]
+<b>IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)</b> 2021 <b>(20% Acceptance rate)</b> [[Paper](https://ieeexplore.ieee.org/document/9669504)] [[Code](https://github.com/JaesikKim/temporal-GNN)]
 
 - <b>A Novel Scoring System for Response of Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer Using Early-treatment Blood Features Derived from Machine Learning</b> \
 <ins>Jaesik Kim</ins>, Kyung-Ah Sohn, Jung-Hak Kwak, Min Jung Kim, Seung-Bum Ryoo, Seung-Yong Jeong, Kyu Joo Park, Hyun-Cheol Kang, Eui Kyu Chie, Sang-Hyuk Jung, Dokyoon Kim\*, Ji Won Park\* \
@@ -33,7 +33,7 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
 ### Conference Poster Presentations
--<b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
+- <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
 Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
 <b>DBEI & CCEB Research Day 2022 Poster</b> <ins>Flash Talk Presenter</ins> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
 
@@ -51,7 +51,7 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 
 
 ### Experience
-- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present \ 
+- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
@@ -86,4 +86,6 @@ Programming practice of Data Structure (Fall 2018)
 
 ### Contact me
 
+[jaesik.kim@pennmedicine.upenn.edu][mailto:jaesik.kim@pennmedicine.upenn.edu]
+[jaesik@seas.upenn.edu][mailto:jaesik@seas.upenn.edu]
 [happicukki@gmail.com](mailto:happicukki@gmail.com)
