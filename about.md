@@ -7,6 +7,9 @@ permalink: /about/
 I'm a first-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
 ### Publication
+- <b>Enterotypical Prevotella and three novel bacterial biomarkers in preoperative stool predict clinical outcome of colorectal cancer</b>\
+Ji-Won Huh, Min Jung Kim, <ins>Jaesik Kim</ins>, Hyeon Gwon Lee, Seung-Bum Ryoo, Ja-Lok Ku, Seung-Yong Jeong, Kyu Joo Park, Dokyoon Kim, Ji Won Park\*, Jihyun F. Kim\* \
+<b>Microbiome</b> 2022 (Accepted) 
 
 - <b>Development and validation of a novel strong prognostic index for colon cancer through a robust combination of laboratory features for systemic inflammation: A prognostic immune nutritional index</b> \
 Sang-Hyuk Jung§, Jie Hao§, Manu Shivakumar, Yonghyun Nam, <ins>Jaesik Kim</ins>, Min Jung Kim, Seung-Bum Ryoo, Eun Kyung Cho, Seung-Yong Jeong, Kyu Joo Park, Sung Chan Park, Dae Kyung Sohn, Jae Hwan Oh, Hong-Hee Won, Dokyoon Kim\*, Ji Won Park\* \
@@ -79,13 +82,13 @@ Programming practice of Data Structure (Fall 2018)
 
 ### Education
 - <b>M.S.</b>, Computer Engineering at <b>Ajou University</b>, 2018 - 2021
-  - Thesis: Representation Learning of Biomedical Ontologies using Poincaré Embedding and Application to Genetic Risk Model \
+  - Thesis: Representation Learning of Biomedical Ontologies using Poincaré Embedding and Application to Genetic Risk Model
   - Advised by Professor Kyung-Ah Sohn
 
 - <b>B.S.</b>, Systems Biology at <b>Yonsei University</b>, 2011 - 2018
 
 ### Contact me
 
-[jaesik.kim@pennmedicine.upenn.edu][mailto:jaesik.kim@pennmedicine.upenn.edu]
-[jaesik@seas.upenn.edu][mailto:jaesik@seas.upenn.edu]
+[jaesik.kim@pennmedicine.upenn.edu](mailto:jaesik.kim@pennmedicine.upenn.edu)\
+[jaesik@seas.upenn.edu](mailto:jaesik@seas.upenn.edu)\
 [happicukki@gmail.com](mailto:happicukki@gmail.com)
