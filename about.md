@@ -7,9 +7,13 @@ permalink: /about/
 I'm a first-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
 
 ### Publication
+- <b>Improving Unsupervised Out-of-domain detection through Pseudo Labeling and Learning</b>\
+Byounghan Lee, <ins>Jaesik Kim</ins>, Junekyu Park and Kyung-Ah Sohn\* \
+<b>EACL</b> 2023 (Accepted)
+
 - <b>Enterotypical Prevotella and three novel bacterial biomarkers in preoperative stool predict clinical outcome of colorectal cancer</b>\
 Ji-Won Huh, Min Jung Kim, <ins>Jaesik Kim</ins>, Hyeon Gwon Lee, Seung-Bum Ryoo, Ja-Lok Ku, Seung-Yong Jeong, Kyu Joo Park, Dokyoon Kim, Ji Won Park\*, Jihyun F. Kim\* \
-<b>Microbiome</b> 2022 (Accepted) 
+<b>Microbiome</b> 2022 [[Paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01388-8)] 
 
 - <b>Development and validation of a novel strong prognostic index for colon cancer through a robust combination of laboratory features for systemic inflammation: A prognostic immune nutritional index</b> \
 Sang-Hyuk Jung§, Jie Hao§, Manu Shivakumar, Yonghyun Nam, <ins>Jaesik Kim</ins>, Min Jung Kim, Seung-Bum Ryoo, Eun Kyung Cho, Seung-Yong Jeong, Kyu Joo Park, Sung Chan Park, Dae Kyung Sohn, Jae Hwan Oh, Hong-Hee Won, Dokyoon Kim\*, Ji Won Park\* \
@@ -78,6 +82,8 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 Programming practice of Data Structure (Fall 2018)
 
 ### Awards
+- 2023 Asan Foundation Medical Bioscience Scholarship, Feb. 2023 
+
 - Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
 
 ### Education
