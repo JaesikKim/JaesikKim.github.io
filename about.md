@@ -9,7 +9,7 @@ I'm a first-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfol
 ### Publication
 - <b>Improving Unsupervised Out-of-domain detection through Pseudo Labeling and Learning</b>\
 Byounghan Lee, <ins>Jaesik Kim</ins>, Junekyu Park and Kyung-Ah Sohn\* \
-<b>EACL</b> 2023 (Accepted)
+<b>EACL</b> 2023 [[Paper](https://aclanthology.org/2023.findings-eacl.76/)]
 
 - <b>Enterotypical Prevotella and three novel bacterial biomarkers in preoperative stool predict clinical outcome of colorectal cancer</b>\
 Ji-Won Huh, Min Jung Kim, <ins>Jaesik Kim</ins>, Hyeon Gwon Lee, Seung-Bum Ryoo, Ja-Lok Ku, Seung-Yong Jeong, Kyu Joo Park, Dokyoon Kim, Ji Won Park\*, Jihyun F. Kim\* \
