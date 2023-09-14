@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm a first-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Machine Learning, Deep Learning, Graph Neural Network, Alzheimer's Disease, Genome-wide Association Study (GWAS), and Multi-omics Integration.
+I'm a second-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Immunology, Single-cell Omics, and Multimodal Large Language Models.
 
 ### Publication
 - <b>Improving Unsupervised Out-of-domain detection through Pseudo Labeling and Learning</b>\
@@ -59,19 +59,19 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 
 ### Experience
 - <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 (5m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
 
 - <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 (1y)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Visiting Student Intern</b>, Jul. 2019 - Aug. 2019 (3m)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Computer Engineering MS Student</b>, Feb. 2018 - Aug. 2021 (3y 6m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
@@ -82,7 +82,7 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 Programming practice of Data Structure (Fall 2018)
 
 ### Awards
-- 2023 Asan Foundation Medical Bioscience Scholarship, Feb. 2023 
+- 2023 Asan Foundation Medical Bioscience Scholarship, Feb. 2023 - Present
 
 - Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
 
