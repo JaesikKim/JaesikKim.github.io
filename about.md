@@ -40,8 +40,9 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
 ### Conference Poster Presentations
-- <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \ <ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
-<b>AI4Science @ Neurips 2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
+- <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
+<ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
+<b>AI4Science@Neurips2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
 
 - <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
 Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
