@@ -7,6 +7,10 @@ permalink: /about/
 I'm a second-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Immunology, Single-cell Omics, and Multimodal Large Language Models.
 
 ### Publication
+- <b>Harnessing AI in Multi-Modal Omits Data Integration: Paving the Path for the Next Frontier in Precision Medicine</b>\
+Yonghyun Nam, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Jakob Woerner, Erica H. Sue, Dong-gi Lee, Manu Shivakumar, Matthew E. Lee, Dokyoon Kim\*.\
+<b>Annual Review of Biomedical Data Science</b> 2024 (Accepted)
+
 - <b>Improving Unsupervised Out-of-domain detection through Pseudo Labeling and Learning</b>\
 Byounghan Lee, <ins>Jaesik Kim</ins>, Junekyu Park and Kyung-Ah Sohn\* \
 <b>EACL</b> 2023 [[Paper](https://aclanthology.org/2023.findings-eacl.76/)]
@@ -42,7 +46,11 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 ### Conference Poster Presentations
 - <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
 <ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
-<b>AI4Science@Neurips2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
+<b>CYTO 2024 (Oral)</b>
+
+- <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
+<ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
+<b>AI4Science@NeurIPS2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
 
 - <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
 Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
