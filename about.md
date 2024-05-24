@@ -4,12 +4,20 @@ title: About me
 permalink: /about/
 ---
 
-I'm a second-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Immunology, Single-cell Omics, and Multimodal Large Language Models.
+I'm a third-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Single-cell Immunology, and LLM applications in Biomedical research.
 
 ### Publication
+- <b>GPT-4 as a Decision Support Tool in Oncology: Automated Extraction of Key Information from Pathologic Report and Enhancement of Patient Prognostic Prediction</b>\
+<ins>Jaesik Kim</ins>, Byounghan Lee, Jonghyun Lee, Jacob S. Leiby, Kyu Yeoun Won, Kyung-Ah Sohn, Young Chan Lee\*, and Dokyoon Kim\* \
+(In preparation)
+
+- <b>Cytometry Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
+<ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle L. McKeague, Ajinkya Pattekar, Mark M. Painter, Joost Wagenaar, Van Truong, Dylan T. Norton, Divij Mathew, Yonghyun Nam, Sokratis A. Apostolidis, Cynthia Clendenin, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Caroline A.G. Ittner, Alexandra P. Turner, Mika Esperanza, Thomas G. Dunn, Nilam S. Mangalmurti, John P. Reilly, Nuala J. Meyer, Carolyn S. Calfee, Kathleen D. Liu, Michael A. Matthy, Lamorna Brown Swigart, Ellen L. Burnham, Jeffrey McKeehan, Sheetal Gandotra, Derek W. Russel, Kevin W. Gibbs, Karl W. Thomas, Harsh Barot, Allison R. Greenplate\*, Dokyoon Kim\*, John Wherry\* \
+[[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580114v2)]
+
 - <b>Harnessing AI in Multi-Modal Omits Data Integration: Paving the Path for the Next Frontier in Precision Medicine</b>\
-Yonghyun Nam, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Jakob Woerner, Erica H. Sue, Dong-gi Lee, Manu Shivakumar, Matthew E. Lee, Dokyoon Kim\*.\
-<b>Annual Review of Biomedical Data Science</b> 2024 (Accepted)
+Yonghyun Nam, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Jakob Woerner, Erica H. Sue, Dong-gi Lee, Manu Shivakumar, Matthew E. Lee, Dokyoon Kim\* \
+<b>Annual Review of Biomedical Data Science</b> 2024 [[Paper](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-102523-103801)]
 
 - <b>Improving Unsupervised Out-of-domain detection through Pseudo Labeling and Learning</b>\
 Byounghan Lee, <ins>Jaesik Kim</ins>, Junekyu Park and Kyung-Ah Sohn\* \
@@ -43,13 +51,14 @@ Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi 
 So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-Ah Sohn\* \
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
+### Conference Oral Presentations
+- <b>Cytometry Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
+<ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
+<b>CYTO 2024 (Oral)</b> [[SNS](https://x.com/dokyoon_kim/status/1787234999072113012)]
+
 ### Conference Poster Presentations
 - <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
-<ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
-<b>CYTO 2024 (Oral)</b>
-
-- <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
-<ins>Jaesik Kim</ins>, Matei Ionita, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
+<ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
 <b>AI4Science@NeurIPS2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
 
 - <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
