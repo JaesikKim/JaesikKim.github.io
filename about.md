@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+![My Photo](images/photo2024.jpeg)
+
 I'm a third-year Bioengineering PhD student in [Kim Lab](https://www.biomedinfolab.com/) at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Single-cell Immunology, and LLM applications in Biomedical research.
 
 ### Publication
