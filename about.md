@@ -4,8 +4,8 @@ title: About me
 permalink: /about/
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/photo2024.jpeg" alt="My Photo" style="width: 35%; margin-right: 20px;" />
+<div style="text-align: center;">
+  <img src="/images/photo2024.jpeg" alt="My Photo" style="width: 35%; margin-bottom: 20px;" />
 </div>
 
 I'm a third-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Single-cell Immunology, and LLM applications in Biomedical research.
