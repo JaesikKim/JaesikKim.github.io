@@ -11,13 +11,10 @@ permalink: /about/
 I'm a third-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Single-cell Immunology, and LLM applications in Biomedical research.
 
 ### Publication
-- <b>GPT-4 as a Decision Support Tool in Oncology: Automated Extraction of Key Information from Pathologic Report and Enhancement of Patient Prognostic Prediction</b>\
-<ins>Jaesik Kim</ins>, Byounghan Lee, Jonghyun Lee, Jacob S. Leiby, Kyu Yeoun Won, Kyung-Ah Sohn, Young Chan Lee\*, and Dokyoon Kim\* \
-(In preparation)
 
 - <b>Cytometry Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
 <ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle L. McKeague, Ajinkya Pattekar, Mark M. Painter, Joost Wagenaar, Van Truong, Dylan T. Norton, Divij Mathew, Yonghyun Nam, Sokratis A. Apostolidis, Cynthia Clendenin, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Caroline A.G. Ittner, Alexandra P. Turner, Mika Esperanza, Thomas G. Dunn, Nilam S. Mangalmurti, John P. Reilly, Nuala J. Meyer, Carolyn S. Calfee, Kathleen D. Liu, Michael A. Matthy, Lamorna Brown Swigart, Ellen L. Burnham, Jeffrey McKeehan, Sheetal Gandotra, Derek W. Russel, Kevin W. Gibbs, Karl W. Thomas, Harsh Barot, Allison R. Greenplate\*, Dokyoon Kim\*, John Wherry\* \
-[[BioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580114v2)]
+<b>Cell Reports Medicine</b> 2024 [[Paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00555-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912400555X%3Fshowall%3Dtrue)]
 
 - <b>Harnessing AI in Multi-Modal Omits Data Integration: Paving the Path for the Next Frontier in Precision Medicine</b>\
 Yonghyun Nam, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Jakob Woerner, Erica H. Sue, Dong-gi Lee, Manu Shivakumar, Matthew E. Lee, Dokyoon Kim\* \
