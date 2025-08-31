@@ -11,6 +11,9 @@ permalink: /about/
 I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are AI Agent in Biomedical Research and Computational Single-cell Immunology.
 
 ### Publication
+- <b>Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases</b> \
+<ins>Jaesik Kim</ins>§, Byounghan Lee§, Kyung-Ah Sohn\*, Dokyoon Kim\*, Young Chan Lee\* \
+<b>MLHC</b> 2025
 
 - <b>MAESTRO: Masked Encoding Set Transformer with Self-Distillation</b> \
 Matthew Eric Lee, <ins>Jaesik Kim</ins>, Matei Ionita, Jonghyun Lee, Michelle L McKeague, Yonghyun Nam, Irene Khavin, Yidi Huang, Victoria Fang, Sokratis Apostolidis, Divij Mathew, Ajinkya Pattekar, Zahabia Rangwala, Amit Bar-Or, Benjamin A Fensterheim, Benjamin A Abramoff, Rennie L Rhee, Damian Maseda, Allison R Greenplate\*, John Wherry\*, Dokyoon Kim\* \
@@ -89,7 +92,7 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 
 ### Experience
 - <b>Computational Biology Intern</b>, Jun. 2025 - Aug. 2025 (2.5m)
-<b>Takeda Pharmarceutical</b>, Boston, MA, USA
+<b>Takeda Pharmarceuticals</b>, Boston, MA, USA
 
 - <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
