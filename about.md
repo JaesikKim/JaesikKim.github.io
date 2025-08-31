@@ -8,9 +8,17 @@ permalink: /about/
   <img src="/images/photo2024.jpeg" alt="My Photo" style="width: 35%; margin-bottom: 20px;" />
 </div>
 
-I'm a third-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are Biomedical Informatics, Artificial Intelligence, Computational Single-cell Immunology, and LLM applications in Biomedical research.
+I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are AI Agent in Biomedical Research and Computational Single-cell Immunology.
 
 ### Publication
+
+- <b>MAESTRO: Masked Encoding Set Transformer with Self-Distillation</b> \
+Matthew Eric Lee, <ins>Jaesik Kim</ins>, Matei Ionita, Jonghyun Lee, Michelle L McKeague, Yonghyun Nam, Irene Khavin, Yidi Huang, Victoria Fang, Sokratis Apostolidis, Divij Mathew, Ajinkya Pattekar, Zahabia Rangwala, Amit Bar-Or, Benjamin A Fensterheim, Benjamin A Abramoff, Rennie L Rhee, Damian Maseda, Allison R Greenplate\*, John Wherry\*, Dokyoon Kim\* \
+<b>ICLR</b> 2025 [[Paper](https://openreview.net/forum?id=FEZOLWexPb)]
+
+- <b>GeOKG: geometry-aware knowledge graph embedding for Gene Ontology and genes</b> \
+Chang-Uk Jeong, <ins>Jaesik Kim</ins>, Dokyoon Kim\*, Kyung-Ah Sohn\* \
+<b>Bioinformatics</b> 2025 [[Paper](https://academic.oup.com/bioinformatics/article/41/4/btaf160/8111648)]
 
 - <b>Cytometry Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
 <ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle L. McKeague, Ajinkya Pattekar, Mark M. Painter, Joost Wagenaar, Van Truong, Dylan T. Norton, Divij Mathew, Yonghyun Nam, Sokratis A. Apostolidis, Cynthia Clendenin, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Caroline A.G. Ittner, Alexandra P. Turner, Mika Esperanza, Thomas G. Dunn, Nilam S. Mangalmurti, John P. Reilly, Nuala J. Meyer, Carolyn S. Calfee, Kathleen D. Liu, Michael A. Matthy, Lamorna Brown Swigart, Ellen L. Burnham, Jeffrey McKeehan, Sheetal Gandotra, Derek W. Russel, Kevin W. Gibbs, Karl W. Thomas, Harsh Barot, Allison R. Greenplate\*, Dokyoon Kim\*, John Wherry\* \
@@ -52,17 +60,17 @@ Mansu Kim§, <ins>Jaesik Kim</ins>§, Jeffrey Qu, Heng Huang, Kyung-Ah Sohn, Qi 
 So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-Ah Sohn\* \
 <b>Biology Direct</b> 2019 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)]
 
-### Conference Oral Presentations
+### Oral Presentations
 - <b>Cytometry Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
 <ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
 <b>CYTO 2024 (Oral)</b> [[SNS](https://x.com/dokyoon_kim/status/1787234999072113012)]
 
-### Conference Poster Presentations
-- <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
+<!-- ### Conference Poster Presentations -->
+<!-- - <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
 <ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
-<b>AI4Science@NeurIPS2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)]
+<b>AI4Science@NeurIPS2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)] -->
 
-- <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
+<!-- - <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
 Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
 <b>DBEI & CCEB Research Day 2022 Poster</b> <ins>Flash Talk Presenter</ins> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
 
@@ -76,10 +84,13 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 
 - <b>Informative Tumor Mutational Burden (iTMB): integrated multiple scores for missense mutations to predict immunotherapy outcome for non-small cell lung cancer</b> \
 <ins>Jaesik Kim</ins>, Garam Lee, Kyung-Ah Sohn\*, Dokyoon Kim\* \
-<b>ASHG 2020 Poster</b> (Cancer - Posters #2362) [[Link](https://www.abstractsonline.com/pp8/#!/9070/presentation/3518)]
+<b>ASHG 2020 Poster</b> (Cancer - Posters #2362) [[Link](https://www.abstractsonline.com/pp8/#!/9070/presentation/3518)] -->
 
 
 ### Experience
+- <b>Computational Biology Intern</b>, Jun. 2025 - Aug. 2025 (2.5m)
+<b>Takeda Pharmarceutical</b>, Boston, MA, USA
+
 - <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
@@ -89,11 +100,11 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 - <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 (5m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
 
-- <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 (1y)\
+<!-- - <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 (1y)\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Visiting Student Intern</b>, Jul. 2019 - Aug. 2019 (3m)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
+[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA -->
 
 - <b>Computer Engineering MS Student</b>, Feb. 2018 - Aug. 2021 (3y 6m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
