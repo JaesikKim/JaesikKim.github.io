@@ -68,27 +68,6 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 <ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
 <b>CYTO 2024 (Oral)</b> [[SNS](https://x.com/dokyoon_kim/status/1787234999072113012)]
 
-<!-- ### Conference Poster Presentations -->
-<!-- - <b>Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper</b> \
-<ins>Jaesik Kim</ins>§, Matei Ionita§, Matthew Lee, Michelle McKeague, Ajinkya Pattekar, Mark Painter, Joost Wagenaar, Van Truong, Dylan Norton, Divij Mathew, Yonghyun Nam, Sokratis Apostolidis, Patryk Orzechowski, Sang-Hyuk Jung, Jakob Woerner, Yidi Huang, Nuala J. Meyer, Allison R. Greenplate, Dokyoon Kim, John Wherry, \
-<b>AI4Science@NeurIPS2023</b> [[Link](https://openreview.net/forum?id=2mq6uezuGj)] -->
-
-<!-- - <b>Artificial Intelligence and Individualized Optimal Glycemic Target in ICU Patients</b> \
-Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, Dokyoon Kim,  \
-<b>DBEI & CCEB Research Day 2022 Poster</b> <ins>Flash Talk Presenter</ins> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
-
-- <b>HiG2Vec: Hierarchical Representations of Gene Ontology and Genes in the Poincaré Ball</b> \
-<ins>Jaesik Kim</ins>, Dokyoon Kim\*, Kyung-Ah Sohn\* \
-<b>DBEI & CCEB Research Day 2022 Poster</b> [[Link](https://www.dbei.med.upenn.edu/2022ResearchDay/presentations)]
-
-- <b>TransformerPRS: a deep learning-based polygenic risk model using bidirectional transformers derived from a language model</b> \
-<ins>Jaesik Kim</ins>§, Sang-Hyuk Jung§, Mansu Kim, Kwangsik Nho, Li Shen, Kyung-Ah Sohn\*, Hong-Hee Won\*, Dokyoon Kim\* \
-<b>ASHG 2021 Poster</b>
-
-- <b>Informative Tumor Mutational Burden (iTMB): integrated multiple scores for missense mutations to predict immunotherapy outcome for non-small cell lung cancer</b> \
-<ins>Jaesik Kim</ins>, Garam Lee, Kyung-Ah Sohn\*, Dokyoon Kim\* \
-<b>ASHG 2020 Poster</b> (Cancer - Posters #2362) [[Link](https://www.abstractsonline.com/pp8/#!/9070/presentation/3518)] -->
-
 
 ### Experience
 - <b>Computational Biology Intern</b>, Jun. 2025 - Aug. 2025 (2.5m)
@@ -102,12 +81,6 @@ Garam Lee, <ins>Jaesik Kim</ins>, Sang-Hyuk Jung, Kyung-Ah Sohn, Jae-Seung Yun, 
 
 - <b>BioData Engineer</b>, Sep. 2021 - Jan. 2022 (5m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
-
-<!-- - <b>Visiting Student Intern</b>, Mar. 2020 - Mar. 2021 (1y)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
-
-- <b>Visiting Student Intern</b>, Jul. 2019 - Aug. 2019 (3m)\
-[Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA -->
 
 - <b>Computer Engineering MS Student</b>, Feb. 2018 - Aug. 2021 (3y 6m)\
 [LAMDA lab](https://sites.google.com/site/kasohn/group?authuser=0) at <b>Ajou University</b>, Suwon, Korea
