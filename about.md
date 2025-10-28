@@ -12,11 +12,11 @@ I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfol
 
 ### Publication
 - (Accepted) <b>An Agentic System for Automated Data Curation and Analysis in Large-Scale Biobanks</b> \
-Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\*, \
+Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\* \
 <b>ML4H</b> 2025
 
 - (Accepted) <b>Clinically aligned multi-modal image-text model for pan-cancer prognosis prediction</b> \
-Jonghyun Lee, Jacob S. Leiby, Lina Takemaru, Yidi Huang, Myung-Giun Noh, Jaesik Kim, Byonghan Lee, Mattew E. Lee, Derek Oldridge, Young Chan Lee\*, Dokyoon Kim\*, \ 
+Jonghyun Lee, Jacob S. Leiby, Lina Takemaru, Yidi Huang, Myung-Giun Noh, Jaesik Kim, Byonghan Lee, Mattew E. Lee, Derek Oldridge, Young Chan Lee\*, Dokyoon Kim\* \
 <b>Biodata Mining</b> 2025
 
 - <b>Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases</b> \
