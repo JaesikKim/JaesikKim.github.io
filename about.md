@@ -11,13 +11,17 @@ permalink: /about/
 I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are AI Agent in Biomedical Research and Computational Single-cell Immunology.
 
 ### Publication
-- (Accepted) <b>An Agentic System for Automated Data Curation and Analysis in Large-Scale Biobanks</b> \
-Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\* \
-<b>ML4H</b> 2025
+- <b>Interpreting Genomic Language Models using Sparse Autoencoders</b> \
+Akira A Nair, Jaehyun Joo, Jonghyun Lee, Lina Takemaru, Yidi Huang, Manu Shivakumar, Matthew Eric Lee, <ins>Jaesik Kim</ins>, Sokratis Apostolidis, Dokyoon Kim\* \
+<b>ICML</b> 2026
 
-- (Accepted) <b>Clinically aligned multi-modal image-text model for pan-cancer prognosis prediction</b> \
+- <b>An Agentic System for Automated Data Curation and Analysis in Large-Scale Biobanks</b> \
+Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\* \
+<b>[ML4H](https://ml4h.cc/)</b> 2025
+
+- <b>Clinically aligned multi-modal image-text model for pan-cancer prognosis prediction</b> \
 Jonghyun Lee, Jacob S. Leiby, Lina Takemaru, Yidi Huang, Myung-Giun Noh, Jaesik Kim, Byonghan Lee, Mattew E. Lee, Derek Oldridge, Young Chan Lee\*, Dokyoon Kim\* \
-<b>Biodata Mining</b> 2025
+<b>[Biodata Mining](https://biodatamining.biomedcentral.com/)</b> 2025
 
 - <b>Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases</b> \
 <ins>Jaesik Kim</ins>§, Byounghan Lee§, Kyung-Ah Sohn\*, Dokyoon Kim\*, Young Chan Lee\* \
