@@ -17,11 +17,11 @@ Akira A Nair, Jaehyun Joo, Jonghyun Lee, Lina Takemaru, Yidi Huang, Manu Shivaku
 
 - <b>An Agentic System for Automated Data Curation and Analysis in Large-Scale Biobanks</b> \
 Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\* \
-<b>[ML4H](https://ml4h.cc/)</b> 2025
+<b>ML4H</b> 2025 [[Paper](https://openreview.net/forum?id=rxbrIeyLgQ)]
 
 - <b>Clinically aligned multi-modal image-text model for pan-cancer prognosis prediction</b> \
 Jonghyun Lee, Jacob S. Leiby, Lina Takemaru, Yidi Huang, Myung-Giun Noh, Jaesik Kim, Byonghan Lee, Mattew E. Lee, Derek Oldridge, Young Chan Lee\*, Dokyoon Kim\* \
-<b>[Biodata Mining](https://biodatamining.biomedcentral.com/)</b> 2025
+<b>Biodata Mining</b> 2025 [[Paper](https://link.springer.com/article/10.1186/s13040-025-00495-0)]
 
 - <b>Evaluation of Multi-Agent LLMs in Multidisciplinary Team Decision-Making for Challenging Cancer Cases</b> \
 <ins>Jaesik Kim</ins>§, Byounghan Lee§, Kyung-Ah Sohn\*, Dokyoon Kim\*, Young Chan Lee\* \
@@ -82,6 +82,9 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
+- <b>Penn AI Fellow</b>, Jan. 2026 - Present \
+<b>University of Pennsylvania</b>, Philadelphia, PA, USA
+
 - <b>Computational Biology Intern</b>, Jun. 2025 - Aug. 2025 (2.5m)
 <b>Takeda Pharmarceuticals</b>, Boston, MA, USA
 
