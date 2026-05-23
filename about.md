@@ -11,6 +11,10 @@ permalink: /about/
 I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are AI Agent in Biomedical Research and Computational Single-cell Immunology.
 
 ### Publication
+- <b>Harnessing cellular immunology data to advance clinical applications: Machine learning approaches for predictive modeling</b> \
+Yonghyun Nam, Michelle L. McKeague, Matei Ionita, Matthew E. Lee, Mark Painter, Sokratis Apostolidis, <ins>Jaesik Kim</ins>, Jakob Woerner, Sang-Hyuk Jung, Patryk Orzechowski, Joost Wagenaar, Allison R. Greenplate\*, E. John Wherry\*, Dokyoon Kim\* \
+<b>iScience</b> (Accepted)
+
 - <b>Interpreting Genomic Language Models using Sparse Autoencoders</b> \
 Akira A Nair, Jaehyun Joo, Jonghyun Lee, Lina Takemaru, Yidi Huang, Manu Shivakumar, Matthew Eric Lee, <ins>Jaesik Kim</ins>, Sokratis Apostolidis, Dokyoon Kim\* \
 <b>ICML</b> 2026
