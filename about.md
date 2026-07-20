@@ -8,16 +8,20 @@ permalink: /about/
   <img src="/images/photo2024.jpeg" alt="My Photo" style="width: 35%; margin-bottom: 20px;" />
 </div>
 
-I'm a fourth-year Bioengineering PhD student in <a href="https://www.biomedinfolab.com/">Kim Lab</a> at the University of Pennsylvania. My interests of research are AI Agent in Biomedical Research and Computational Single-cell Immunology.
+I'm a Postdoctoral Researcher in the <a href="https://www.biomedinfolab.com/">Kim Lab</a>, Department of Biostatistics, Epidemiology and Informatics (DBEI), at the University of Pennsylvania. My research interests are AI Agent in Biomedical Research and Computational Single-cell Immunology.
 
 ### Publication
+- <b>Deep learning representations of human Immune Health for precision immunology</b> \
+Matthew E Lee, <ins>Jaesik Kim</ins>, Matei Ionita, Michelle McKeague, Jonghyun Lee, Yonghyun Nam, Chang-Uk Jeong, Akira Nair, Edmore T Moyo, Irene Khavin, Keving Wang, Shwetank, Divij E Mathew, Victoria Fang, Benjamin A Fensterheim, Ajinkya Pattekar, Zahabia Rangwala, Amit Bar-Or, Benjamin A Abramoff, Rennie Rhee, Stephen Schuster, Alexander C Huang, Nuala Meyer, Mayaan Levy, Alfred Garfall, Vijay Bhoj, Mary Kaminski, Ali Naji, Enjun Yang, Christopher Cabanski, John Connolly, Leonardo Guercio, Joost Wagenaar, Amy E Baxter, Damian Maseda, Sokratis A. Apostolidis, Mark M Painter, Robert H Vonderheide, Allison R Greenplate\*, Dokyoon Kim\*, E John Wherry\* \
+<b>bioRxiv</b> 2026 [[Paper](https://doi.org/10.64898/2026.07.15.724605)]
+
 - <b>Harnessing cellular immunology data to advance clinical applications: Machine learning approaches for predictive modeling</b> \
 Yonghyun Nam, Michelle L. McKeague, Matei Ionita, Matthew E. Lee, Mark Painter, Sokratis Apostolidis, <ins>Jaesik Kim</ins>, Jakob Woerner, Sang-Hyuk Jung, Patryk Orzechowski, Joost Wagenaar, Allison R. Greenplate\*, E. John Wherry\*, Dokyoon Kim\* \
-<b>iScience</b> (Accepted)
+<b>iScience</b> 2026 [[Paper](https://www.cell.com/iscience/fulltext/S2589-0042(26)01718-9)]
 
 - <b>Interpreting Genomic Language Models using Sparse Autoencoders</b> \
 Akira A Nair, Jaehyun Joo, Jonghyun Lee, Lina Takemaru, Yidi Huang, Manu Shivakumar, Matthew Eric Lee, <ins>Jaesik Kim</ins>, Sokratis Apostolidis, Dokyoon Kim\* \
-<b>ICML</b> 2026
+<b>ICML</b> 2026 [[Paper](https://openreview.net/forum?id=boBP35BB2U)]
 
 - <b>An Agentic System for Automated Data Curation and Analysis in Large-Scale Biobanks</b> \
 Chang-Uk Jeong§, <ins>Jaesik Kim</ins>§, Jaehyun Joo, Byounghan Lee, Yang-Gyun Kim\*, Dokyoon Kim\* \
@@ -86,13 +90,16 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 
 
 ### Experience
-- <b>Penn AI Fellow</b>, Jan. 2026 - Present \
+- <b>Postdoctoral Researcher</b>, Jul. 2026 - Present \
+[Kim Lab](https://www.biomedinfolab.com/), Department of Biostatistics, Epidemiology and Informatics (DBEI) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
+
+- <b>Penn AI Fellow</b>, Jan. 2026 - Jun. 2027 \
 <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Computational Biology Intern</b>, Jun. 2025 - Aug. 2025 (2.5m)
 <b>Takeda Pharmarceuticals</b>, Boston, MA, USA
 
-- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Present\
+- <b>Bioengineering PhD Student and Research Fellow</b>, Aug. 2022 - Aug. 2026\
 [Kim Lab](https://www.biomedinfolab.com/) at <b>University of Pennsylvania</b>, Philadelphia, PA, USA
 
 - <b>Junior Bioinformatician</b>, Feb. 2022 - Jul. 2022 (6m)\
@@ -115,6 +122,9 @@ Programming practice of Data Structure (Fall 2018)
 - Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
 
 ### Education
+- <b>Ph.D.</b>, Bioengineering at <b>University of Pennsylvania</b>, 2022 - 2026
+  - Advised by Professor Dokyoon Kim
+
 - <b>M.S.</b>, Computer Engineering at <b>Ajou University</b>, 2018 - 2021
   - Thesis: Representation Learning of Biomedical Ontologies using Poincaré Embedding and Application to Genetic Risk Model
   - Advised by Professor Kyung-Ah Sohn
