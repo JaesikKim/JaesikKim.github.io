@@ -117,12 +117,13 @@ So Yeon Kim, Hyun-Hwan Jeong, <ins>Jaesik Kim</ins>, Jeong-Hyeon Moon and Kyung-
 Programming practice of Data Structure (Fall 2018)
 
 ### Awards
-- 2023 Asan Foundation Medical Bioscience Scholarship, Feb. 2023 - Present
+- 2023 Asan Foundation Medical Bioscience Scholarship, Feb. 2023 - Dec. 2025
 
 - Best Paper Award (Graduate School Dean's Award), Ajou University, Feb. 2022
 
 ### Education
 - <b>Ph.D.</b>, Bioengineering at <b>University of Pennsylvania</b>, 2022 - 2026
+  - Thesis: Toward AI Co-Scientists for Immunophenotyping: Representation, Evaluation, and Reasoning in Cytometry
   - Advised by Professor Dokyoon Kim
 
 - <b>M.S.</b>, Computer Engineering at <b>Ajou University</b>, 2018 - 2021
